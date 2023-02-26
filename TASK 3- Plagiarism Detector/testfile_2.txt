@@ -1,0 +1,12 @@
+DEFINITION
+Hadoop
+By
+Craig Stedman, Industry EditorLinda Rosencrance
+Hadoop is an open source distributed processing framework that manages data processing and storage for big data applications in scalable clusters of computer servers. It's at the center of an ecosystem of big data technologies that are primarily used to support advanced analytics initiatives, including predictive analytics, data mining and machine learning. Hadoop systems can handle various forms of structured and unstructured data, giving users more flexibility for collecting, processing, analyzing and managing data than relational databases and data warehouses provide.
+
+Hadoop's ability to process and store different types of data makes it a particularly good fit for big data environments. They typically involve not only large amounts of data, but also a mix of structured transaction data and semistructured and unstructured information, such as internet clickstream records, web server and mobile application logs, social media posts, customer emails and sensor data from the internet of things (IoT).
+
+Formally known as Apache Hadoop, the technology is developed as part of an open source project within the Apache software foundation. Multiple vendors offer commercial Hadoop distributions, although the number of Hadoop vendors has declined because of an overcrowded market and then competitive pressures driven by the increased deployment of big data systems in the cloud. The shift to the cloud also enables users to store data in lower-cost cloud object storage services instead of Hadoop's namesake file system; as a result, Hadoop's role is being reduced in some big data architectures.
+
+Hadoop and big data
+Hadoop runs on commodity servers and can scale up to support thousands of hardware nodes. The Hadoop Distributed File System (HDFS) is designed to provide rapid data access across the nodes in a cluster, plus fault-tolerant capabilities so applications can continue to run if individual nodes fail. Those features helped Hadoop become a foundational data management platform for big data analytics uses after it emerged in the mid-2000s.

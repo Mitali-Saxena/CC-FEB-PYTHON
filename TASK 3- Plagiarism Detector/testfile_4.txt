@@ -1,0 +1,4 @@
+Plagiarism is simply called cheating. When one person copies the work or idea of another person and uses that in their work by their name it is called plagiarism. For example, if someone writing an article on geeksforgeeks and he/she copied the content from another site or resource it is said to be plagiarized content.
+
+Difflib Module
+In Python, there are various built-in modules used for making different tasks easy and difflib module is one of them. This module provides different functions and classes by using which we can compare the data sets. In this article, we are going to use SequenceMatcher() function class of this module.

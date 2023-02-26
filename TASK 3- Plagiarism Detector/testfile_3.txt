@@ -1,0 +1,45 @@
+SQL is a language to operate databases; it includes Database Creation, Database Deletion, Fetching Data Rows, Modifying & Deleting Data rows, etc.
+
+SQL stands for Structured Query Language which is a computer language for storing, manipulating and retrieving data stored in a relational database. SQL was developed in the 1970s by IBM Computer Scientists and became a standard of the American National Standards Institute (ANSI) in 1986, and the International Organization for Standardization (ISO) in 1987.
+
+Though SQL is an ANSI (American National Standards Institute) standard language, but there are many different dialects of the SQL language like MS SQL Server is using T-SQL and Oracle is using PL/SQL.
+SQL is the standard language to communicate with Relational Database Systems. All the Relational Database Management Systems (RDMS) like MySQL, MS Access, Oracle, Sybase, Informix, Postgres and SQL Server use SQL as their Standard Database Language.
+
+Why SQL?
+SQL is widely popular because it offers the following advantages −
+
+Allows users to access data in the relational database management systems.
+
+Allows users to describe the data.
+
+Allows users to define the data in a database and manipulate that data.
+
+Allows to embed within other languages using SQL modules, libraries & pre-compilers.
+
+Allows users to create and drop databases and tables.
+
+Allows users to create view, stored procedure, functions in a database.
+
+Allows users to set permissions on tables, procedures and views.
+
+A Brief History of SQL
+1970 − Dr. Edgar F. "Ted" Codd of IBM is known as the father of relational databases. He described a relational model for databases.
+
+1974 − Structured Query Language (SQL) appeared.
+
+1978 − IBM worked to develop Codd's ideas and released a product named System/R.
+
+1986 − IBM developed the first prototype of relational database and standardized by ANSI. The first relational database was released by Relational Software which later came to be known as Oracle.
+
+1987 − SQL became the part of the International Organization for Standardization (ISO).
+
+How SQL Works?
+When you are executing an SQL command for any RDBMS, the system determines the best way to carry out your request and SQL engine figures out how to interpret the task.
+
+There are various components included in this process. These components are −
+
+Query Dispatcher
+Optimization Engines
+Classic Query Engine
+SQL Query Engine, etc.
+A classic query engine handles all the non-SQL queries, but a SQL query engine won't handle logical files. Following is a simple diagram showing the SQL Architecture −
